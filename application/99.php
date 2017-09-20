@@ -7,5 +7,6 @@
  */
 
 
-echo a a a 
-echo hhh
+echo a a a; 
+
+echo hhh;
